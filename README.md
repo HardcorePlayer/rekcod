@@ -1,3 +1,3 @@
 <div alert="center">
-  ![REKCOD LOGO]('./logo.png')
+  <img src="logo.png" />
 </div>
